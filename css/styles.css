@@ -1,21 +1,33 @@
 body {
   background-color: lightgray;
 }
-.column {
-  float: left;
-  width: 30%;
-  padding: 4px;
-  margin-left: 10px;
+h1 {
+  text-align: center;
+  color: teal;
 }
 h2 {
   font-size: 30px;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 6px;
+  margin: 10px;
   text-align: center;
 }
 .column h2 {
   color: #1a826d;
   font-style: italic;
 }
-h1{
-  text-align: center;
-  color: teal;
+.adopt {
+  border: 2px solid red;
+  background-color: #909393;
+}
+
+.mouse {
+  font-style: italic;
 }
