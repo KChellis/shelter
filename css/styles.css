@@ -39,6 +39,11 @@ p {
 span {
   font-weight: bold;
 }
+.founders {
+  text-align: center;
+  color: #1a826d;
+  font-style: italic;
+}
 .column {
   float: left;
   width: 30%;
