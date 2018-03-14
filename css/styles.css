@@ -4,11 +4,12 @@ body {
 ul {
   list-style-type: none;
   overflow: hidden;
-  background-color: #333;
+  background-color: #72528c;
 }
 
 li {
-  float: center;
+  float: left;
+  padding-left: 150px;
 }
 
 li a {
@@ -20,8 +21,8 @@ li a {
 }
 
 li a:hover {
-  background-color: #555;
-  color: white;
+  background-color: #cfb0e8;
+  color: #def9f7;
 }
 h1 {
   text-align: center;
@@ -34,6 +35,9 @@ h2 {
 }
 p {
   text-align: center;
+}
+span {
+  font-weight: bold;
 }
 .column {
   float: left;
