@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray;
+}
+.column {
+  float: left;
+  width: 30%;
+  padding: 4px;
+  margin-left: 10px;
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+.column h2 {
+  color: #1a826d;
+  font-style: italic;
+}
+h1{
+  text-align: center;
+  color: teal;
+}
