@@ -67,17 +67,4 @@ span {
   font-style: italic;
   margin-top: 300px;
 }
-.money {
-  background-image: url("../img/money.jpg");
-  color: white;
-  font-style: bold;
-  font-size: 40px;
-}
-.money p {
-  background-color: green;
-}
-.money h1{
-  background-color: green;
-  color: white;
-  font-size: 50px;
-}
+
